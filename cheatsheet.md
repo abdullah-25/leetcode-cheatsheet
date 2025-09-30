@@ -12,7 +12,7 @@ This article is a collection of cheat sheets you can use while solving problems 
 
 ## Time Complexity (Big-O) Cheat Sheet
 
-![Time Complexity Big-O Chart — Insert image here](time-complexity.png)
+![Time Complexity Big-O Chart — Insert image here](images/bigOchart.png)
 
 First, the time complexity of common operations (by data structure/algorithm). Then, reasonable complexities given input sizes.
 
@@ -145,7 +145,7 @@ Given `n = heap.length`:
 
 ## Sorting Algorithms
 
-![Sorting Algorithms — Insert complexities table/diagram here](sorting.png)
+![Sorting Algorithms — Insert complexities table/diagram here](images/sorting.png)
 
 All major languages expose a built-in sort; assume `O(n log n)` unless specified. (E.g., Python uses Timsort; C++ std::sort algorithm may vary.)
 
@@ -156,7 +156,7 @@ All major languages expose a built-in sort; assume `O(n log n)` unless specified
 
 ## General DS/A Flowchart
 
-![General DS/A Flowchart — Insert diagram here](dsa-flowchart.png)
+![General DS/A Flowchart — Insert diagram here](images/generaldsa.png)
 
 This flowchart helps pick a DS/Algo based on problem shape.  
 *(Covers LICC methods; excludes more advanced algorithms like Dijkstra’s.)*
